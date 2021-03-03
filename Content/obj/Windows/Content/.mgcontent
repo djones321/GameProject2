@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/AIGeneratedBGM.mp3</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/bangers.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/bangers2.spritefont</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/DragonShoot.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/DragonSprite.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/DragonSprite2.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/Feesh.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/Fireball.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/hit.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/hit2.wav</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/Lil_D_Body1.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/Lil_Dragon_Head1.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/Mecheval.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/PenguinKing.png</File>
+    <File>F:/Files/CSDocs/cis580/GameProject2/Content/PenguinShoot.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
